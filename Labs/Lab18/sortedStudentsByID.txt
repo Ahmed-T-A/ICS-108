@@ -1,0 +1,12 @@
+=============== Sorted File ===============
+          JEHAD          11460
+          HASAN          25220
+          MUSTAFA        30180
+          MAHMOUD        45440
+          MOHAMMAD       53700
+          ZIYAD          62660
+          AHMAD          65470
+          ABDULAZIZ      73190
+          HUSSEIN        83290
+          AMMAR          94720
+=============== End Of File ===============
